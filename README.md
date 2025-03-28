@@ -23,6 +23,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Fully functioning laravel login logout page with database management of the user in mySQL
 
 <img width="1467" alt="Screenshot 2025-03-28 at 6 23 18 PM" src="https://github.com/user-attachments/assets/7d73a8cd-1bc0-4c6f-aca5-eb45e4a38c53" />
-<img width="1467" alt="Screenshot 2025-03-28 at 6 23 18 PM" src="https://github.com/user-attachments/assets/1dcce5d5-9f2c-4c0e-b64d-f4eac30f4438" />
-<img width="1470" alt="Screenshot 2025-03-28 at 6 24 02 PM" src="https://github.com/user-attachments/assets/08af1814-4f9f-438d-8701-9851610477c6" />
+\<img width="1470" alt="Screenshot 2025-03-28 at 6 24 02 PM" src="https://github.com/user-attachments/assets/08af1814-4f9f-438d-8701-9851610477c6" />
 <img width="1311" alt="Screenshot 2025-03-28 at 6 24 23 PM" src="https://github.com/user-attachments/assets/8ca0ee81-d44e-49ea-b232-8e3612c64c5b" />
+<img width="1458" alt="Screenshot 2025-03-28 at 6 23 45 PM" src="https://github.com/user-attachments/assets/03ad10ae-b5f3-49b9-a713-2d6038bc8fde" />
